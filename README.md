@@ -1,8 +1,8 @@
-# Pipeline de Classificação de Cogumelos 🍄
+# Pipeline de Classificação de Cogumelos
 
 Este projeto implementa um pipeline de dados e aprendizado de máquina para classificar cogumelos entre **comestíveis (e)** e **venenosos (p)** com base em suas características morfológicas e físicas, utilizando o clássico conjunto de dados da UCI (Mushroom Classification).
 
-## 🚀 Como Clonar e Executar o Projeto
+## Como Clonar e Executar o Projeto
 
 Siga os passos abaixo para preparar o ambiente e rodar as análises localmente.
 
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🛠️ Executando as Etapas do Projeto
+## Executando as Etapas do Projeto
 
 O projeto é composto por scripts em código puro Python e um Jupyter Notebook:
 
@@ -69,7 +69,7 @@ Caso prefira executar e visualizar o passo a passo interativo no Jupyter Noteboo
 
 ---
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
 Pipeline-Classificacao-Cogumelos/
